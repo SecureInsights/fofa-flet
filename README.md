@@ -86,7 +86,7 @@ python fofa.py web
 项目依赖以下 Python 包：
 
 ```txt
-flet>=0.26.0
+flet>=0.24.0
 requests>=2.31.0
 cryptography>=41.0.0
 ```
